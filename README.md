@@ -31,7 +31,7 @@ A curated list of projects that prove Atwood's Law — things you'd never expect
 - [Blockchain & Cryptocurrency](#blockchain--cryptocurrency)
 - [Torrent Clients & P2P](#torrent-clients--p2p)
 - [Hardware & Robotics](#hardware--robotics)
-- [Agent Operating Systems](#agent-operating-systems)
+
 
 ---
 
@@ -45,6 +45,7 @@ A curated list of projects that prove Atwood's Law — things you'd never expect
 - [lifo](https://github.com/lifo-sh/lifo) - Browser-native OS. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, shell, virtual filesystem, IndexedDB persistence. (473 stars)
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js) - A virtual Apple Macintosh with System 8, running in Electron. "I'm sorry." (8.5k stars)
 - [1j01/98](https://github.com/1j01/98) - Web-based Windows 98 desktop recreation. (1.4k stars)
+- [Rivet agentOS](https://github.com/rivet-dev/agent-os) - Portable OS for AI agents. ~6 ms cold starts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates. Ships as a single npm package (`rivetkit`). [rivet.dev/agent-os](https://www.rivet.dev/agent-os/)
 
 ## Databases
 
@@ -195,14 +196,6 @@ A curated list of projects that prove Atwood's Law — things you'd never expect
 - [Johnny-Five](https://github.com/rwaldron/johnny-five) - Control Arduinos, Raspberry Pis, and other hardware with JavaScript.
 - [Node-RED](https://github.com/node-red/node-red) - Low-code programming for IoT.
 - [Firmata.js](https://github.com/firmata/firmata.js) - Firmata protocol for communicating with microcontrollers in JavaScript.
-
----
-
-## Agent Operating Systems
-
-*A new frontier: operating systems purpose-built for AI agents, written in JavaScript.*
-
-- [Rivet agentOS](https://github.com/rivet-dev/agent-os) - Portable OS for AI agents. ~6 ms cold starts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates. Ships as a single npm package (`rivetkit`). [rivet.dev/agent-os](https://www.rivet.dev/agent-os/)
 
 ---
 
