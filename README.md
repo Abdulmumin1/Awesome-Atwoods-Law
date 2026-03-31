@@ -75,7 +75,6 @@ A curated list of projects that prove Atwood's Law — things you'd never expect
 - [Acorn](https://github.com/acornjs/acorn) - Small, fast JavaScript parser written in JavaScript.
 - [Ohm](https://github.com/ohmjs/ohm) - Library for building parsers, interpreters, and compilers.
 - [pascal.js](https://github.com/kanaka/pascal.js) - Pascal compiler implemented in JavaScript. (50 stars)
-- [Opal](https://github.com/opal/opal) - Ruby to JavaScript compiler.
 - [Brython](https://github.com/brython-dev/brython) - Python 3 implementation for client-side web programming.
 - [Transcrypt](https://github.com/TranscryptOrg/Transcrypt) - Python 3.9 to JavaScript compiler.
 - [BiwaScheme](https://github.com/biwascheme/biwascheme) - Scheme interpreter in JavaScript. (778 stars)
